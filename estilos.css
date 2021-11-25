@@ -1,0 +1,18 @@
+body{
+    color: rgb(78, 75, 75);
+}
+
+.linkNav{
+    color: rgb(78, 75, 75);
+}
+.linkNav:hover{
+    text-decoration: none;
+    color: orange;
+}
+.link2{
+    color: rgb(78, 75, 75);
+}
+.link2:hover{
+    text-decoration: none;
+    color: orange;
+}
