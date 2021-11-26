@@ -16,3 +16,10 @@ body{
     text-decoration: none;
     color: orange;
 }
+.link3{
+    color: brown;
+}
+.link3:hover{
+    text-decoration: none;
+    color: orange;
+}
